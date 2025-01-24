@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+p{
+    background: orange;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+input{
+    accent-color: orange;
+    transform: scale(1.5);
+    margin: 10px;
+}
+=======
+/**Accent color**/
+>>>>>>> 2abc7f1 (feat: add accent color)
