@@ -1,0 +1,9 @@
+p{
+    background: orange;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+input{
+    accent-color: orange;
+}
